@@ -1,0 +1,6 @@
+Revision history for Perl extension Hello.
+
+0.01  Wed Jul 13 12:56:05 2005
+	- original version; created by h2xs 1.23 with options
+		-n Hello
+
